@@ -1,5 +1,4 @@
 
-41 lines (41 sloc) 674 Bytes
 alembic==0.9.9
 Babel==2.6.0
 blinker==1.4
