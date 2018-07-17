@@ -1,3 +1,5 @@
+
+41 lines (41 sloc) 674 Bytes
 alembic==0.9.9
 Babel==2.6.0
 blinker==1.4
@@ -37,3 +39,5 @@ visitor==0.1.3
 Werkzeug==0.14.1
 WTForms==2.2
 python-dotenv==0.8.2
+psycopg2==2.7.3.1
+gunicorn==19.7.1
